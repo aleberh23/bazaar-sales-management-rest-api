@@ -21,12 +21,6 @@ PostgreSQL is employed as the relational database management system for this pro
 Postman is utilized for API testing and development. It provides a user-friendly interface for sending HTTP requests, testing endpoints, and validating API responses, ensuring the correctness and reliability of the API implementation.
 
 ## Images:
-Here are some screenshots of the working system. The data is censored.
-![low stock products](https://github.com/aleberh23/bazaar-sales-management-rest-api/assets/158856472/5518702c-e85e-44a5-a2df-f0b10f33b4f6)
-![daily resume](https://github.com/aleberh23/bazaar-sales-management-rest-api/assets/158856472/c638026c-d887-4fb5-bb90-9a88b03676da)
-![biggest amount sale](https://github.com/aleberh23/bazaar-sales-management-rest-api/assets/158856472/fba86c79-aaf8-4033-9b42-7f70d3e81ffc)
-![sales list](https://github.com/aleberh23/bazaar-sales-management-rest-api/assets/158856472/d948c39f-67a7-40f8-aa22-73134c90c757)
-
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://github.com/aleberh23/bazaar-sales-management-rest-api/assets/158856472/5518702c-e85e-44a5-a2df-f0b10f33b4f6" alt="login" style="width: 150px; margin: 5px;">
     <img src="https://github.com/aleberh23/bazaar-sales-management-rest-api/assets/158856472/c638026c-d887-4fb5-bb90-9a88b03676da" alt="new_member" style="width: 150px; margin: 5px;">
