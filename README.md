@@ -48,4 +48,4 @@ Before proceeding with the installation steps, you must have the following prere
 
 5- You now have the repository cloned to your local machine and can start working with the project files.  
 
-
+PS: In [this release](https://github.com/aleberh23/bazaar-sales-management-rest-api/releases/tag/final) you can find the postman template for testing the system funcionalities.
