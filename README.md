@@ -22,17 +22,16 @@ Postman is utilized for API testing and development. It provides a user-friendly
 
 ## Images:
 Here are some screenshots of the working system. The data is censored.
+![low stock products](https://github.com/aleberh23/bazaar-sales-management-rest-api/assets/158856472/5518702c-e85e-44a5-a2df-f0b10f33b4f6)
+![daily resume](https://github.com/aleberh23/bazaar-sales-management-rest-api/assets/158856472/c638026c-d887-4fb5-bb90-9a88b03676da)
+![biggest amount sale](https://github.com/aleberh23/bazaar-sales-management-rest-api/assets/158856472/fba86c79-aaf8-4033-9b42-7f70d3e81ffc)
+![sales list](https://github.com/aleberh23/bazaar-sales-management-rest-api/assets/158856472/d948c39f-67a7-40f8-aa22-73134c90c757)
+
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github.com/aleberh23/member-management-system/assets/158856472/eacc1808-4bd4-4d46-97e9-81ef0dfe7ddb" alt="login" style="width: 150px; margin: 5px;">
-    <img src="https://github.com/aleberh23/member-management-system/assets/158856472/9fe36de3-d7ce-4722-b489-a46c4cd87028" alt="new_member" style="width: 150px; margin: 5px;">
-    <img src="https://github.com/aleberh23/member-management-system/assets/158856472/207e1894-a077-4e2e-bc7f-3db68b828f7c" alt="member_view" style="width: 150px; margin: 5px;">
-    <img src="https://github.com/aleberh23/member-management-system/assets/158856472/c99face8-3d39-41e8-8b1a-ef5e8987b103" alt="memeber_filter" style="width: 150px; margin: 5px;">
-    <img src="https://github.com/aleberh23/member-management-system/assets/158856472/e1020b1d-1fbf-48d1-8e64-35d8705cd960" alt="test_member_data" style="width: 150px; margin: 5px;">
-    <img src="https://github.com/aleberh23/member-management-system/assets/158856472/c285712d-66e4-48e0-85eb-e2305498ee6c" alt="secondary_members_group_of_testmember" style="width: 150px; margin: 5px;">
-    <img src="https://github.com/aleberh23/member-management-system/assets/158856472/1b929ee0-9878-4fb0-82af-51039729e080" alt="alerts_change_of_categories" style="width: 150px; margin: 5px;">
-    <img src="https://github.com/aleberh23/member-management-system/assets/158856472/f308cbdf-3717-4584-b330-586f6b783628" alt="debt_collectors" style="width: 150px; margin: 5px;">
-    <img src="https://github.com/aleberh23/member-management-system/assets/158856472/c1d8db8b-09ea-4960-bdd8-bca810650106" alt="categories" style="width: 150px; margin: 5px;">
-    <img src="https://github.com/aleberh23/member-management-system/assets/158856472/a751d009-7bc2-41f7-8b6c-72b11b14b4e7" alt="change_of_category_alert" style="width: 150px; margin: 5px;">
+    <img src="https://github.com/aleberh23/bazaar-sales-management-rest-api/assets/158856472/5518702c-e85e-44a5-a2df-f0b10f33b4f6" alt="login" style="width: 150px; margin: 5px;">
+    <img src="https://github.com/aleberh23/bazaar-sales-management-rest-api/assets/158856472/c638026c-d887-4fb5-bb90-9a88b03676da" alt="new_member" style="width: 150px; margin: 5px;">
+    <img src="https://github.com/aleberh23/bazaar-sales-management-rest-api/assets/158856472/fba86c79-aaf8-4033-9b42-7f70d3e81ffc" alt="member_view" style="width: 150px; margin: 5px;">
+    <img src="https://github.com/aleberh23/bazaar-sales-management-rest-api/assets/158856472/d948c39f-67a7-40f8-aa22-73134c90c757" alt="memeber_filter" style="width: 150px; margin: 5px;">
 </div>
 
 
