@@ -36,6 +36,15 @@ Before proceeding with the installation steps, you must have the following prere
 - JDK 20 (for WINDOWS 64 bits: https://download.oracle.com/java/20/archive/jdk-20.0.2_windows-x64_bin.exe)
 - PostgreSQL server running on localhost:5432 (for WINDOWS 64 bits: https://sbp.enterprisedb.com/getfile.jsp?fileid=1258893)
 
-  <h3>Instalation Steps:</h3>
+<h3>Instalation Steps:</h3>
+1- Open your terminal or command prompt.
+
+2- Navigate to the directory where you want to clone the repository.
+
+3- Use the following command to clone the repository: *git clone https://github.com/aleberh23/bazaar-sales-management-rest-api.git*
+
+4- After the cloning process is complete, navigate into the cloned directory: *cd bazaar-sales-management-rest-api*
+
+5- You now have the repository cloned to your local machine and can start working with the project files.  
 
 
