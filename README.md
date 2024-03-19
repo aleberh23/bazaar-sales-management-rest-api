@@ -37,6 +37,7 @@ Before proceeding with the installation steps, you must have the following prere
 - PostgreSQL server running on localhost:5432 (for WINDOWS 64 bits: https://sbp.enterprisedb.com/getfile.jsp?fileid=1258893)
 
 <h3>Instalation Steps:</h3>
+
 1- Open your terminal or command prompt.
 
 2- Navigate to the directory where you want to clone the repository.
